@@ -6,3 +6,24 @@ Jekyll
 JavaScript
 Coding
 Web Design
+PID Control
+Simulink
+Arduino
+System Modelling
+Motor Control
+RF Communication
+Sensors Integration
+Electric Vehicles
+Sustainability
+Photogrammetry
+Engineering Design
+MATLAB
+Simulation
+Numerical Methods
+Algorithm Design
+Simscape
+Vehicle Dynamics
+Java
+Server Management
+API Integration
+Database Management
