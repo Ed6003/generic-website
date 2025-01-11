@@ -82,3 +82,5 @@ Generated using Alicevision in Meshroom, cleaned up and rendered in Blender. Ske
 <div class="sketchfab-embed-wrapper" style="width: 100%; height: 60vh; margin: 0; padding: 0; display: flex; justify-content: center; align-items: center;">
     <iframe title="Boat 3D Scan with Overlayed Sketches" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/d4941033129a46f78df6eb37060f2c52/embed" style="width: 100%; height: 100%; border: none;"></iframe>
 </div>
+
+<a class="btn btn--primary" href="https://stream24.ilsole24ore.com/video/sostenibilita/ev-ita-e-prima-barca-elettrica-basso-voltaggio-e-alta-potenza/AEfMSIa" target="_blank" rel="noopener noreferrer">On National News - Il Sole 24 Ore</a>
