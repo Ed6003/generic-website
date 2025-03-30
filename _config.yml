@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Edoardo Rusconi"
-  avatar           : "https://media.licdn.com/dms/image/v2/D5603AQEVmSaUC69ywQ/profile-displayphoto-shrink_400_400/B56ZOEQE0rG4Ag-/0/1733090628425?e=1738800000&v=beta&t=dmneQN6bxNpWEUl9D7AJlIfiINfBBOULLAJB-Dkrgvc" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://media.licdn.com/dms/image/v2/D5603AQEVmSaUC69ywQ/profile-displayphoto-shrink_400_400/B56ZOEQE0rG4Ag-/0/1733090628425?e=2147483647&v=beta&t=UR_mAIhZKflQbaowyGQ7ePNH_xWk89jIrUPDkhCuNpw" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "3rd Year Mechanical Engineer
   University of Warwick"
   location         : "UK and Italy"
