@@ -8,7 +8,7 @@ entries_layout: grid
 header:
   overlay_image: /_pages/MatlabRocketSimulationScript/Matlab-Rocket-Simulation-Script-Splash.png
   image_description: "Matlab Rocket Simulation Script"
-pagination: 
+pagination:
   enabled: true
 tags:
   - MATLAB

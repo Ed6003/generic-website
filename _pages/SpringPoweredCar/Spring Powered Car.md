@@ -8,7 +8,7 @@ entries_layout: grid
 header:
   overlay_image: /_pages/SpringPoweredCar/Spring-Powered-Car-Splash.png
   image_description: "Simscape / Simulink Model"
-pagination: 
+pagination:
   enabled: true
 tags:
   - Simulink

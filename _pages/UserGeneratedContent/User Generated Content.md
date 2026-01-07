@@ -8,7 +8,7 @@ entries_layout: grid
 header:
   overlay_image: /_pages/UserGeneratedContent/User-Generated-Content-Splash.png
   image_description: "Banner made from UCG faces"
-pagination: 
+pagination:
   enabled: true
 tags:
   - Blender

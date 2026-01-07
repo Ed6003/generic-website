@@ -8,7 +8,7 @@ entries_layout: grid
 header:
   overlay_image: /_pages/GameAssets/Game-Assets-Splash.png
   image_description: "Photogrammetry of a Person"
-pagination: 
+pagination:
   enabled: true
 tags:
   - Blender

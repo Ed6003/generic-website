@@ -8,7 +8,7 @@ entries_layout: grid
 header:
   overlay_image: /_pages/SelfBalancingRobot/Self-Balancing-Robot-Splash.png
   image_description: "Self Balancing Robot PID in Simulink"
-pagination: 
+pagination:
   enabled: true
 tags:
   - PID Control

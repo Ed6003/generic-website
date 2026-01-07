@@ -8,7 +8,7 @@ entries_layout: grid
 header:
   overlay_image: /_pages/EV-ItaElectricBoat/EV-Ita-Electric-Boat-Splash.png
   image_description: "EV-Ita Electric Boat Photogrammetry Scan"
-pagination: 
+pagination:
   enabled: true
 tags:
   - Electric Vehicles

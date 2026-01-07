@@ -8,7 +8,7 @@ entries_layout: grid
 header:
   overlay_image: /_pages/WarwickRacing/Warwick-Racing-Splash.jpg
   image_description: "Warwick Racing car racing at Silverstone"
-pagination: 
+pagination:
   enabled: true
 tags:
   - Automotive

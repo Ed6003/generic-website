@@ -8,7 +8,7 @@ entries_layout: grid
 header:
   overlay_image: /_pages/TrainControl/Train-Control-Splash.png
   image_description: "Schematic of Train Control Circuitry"
-pagination: 
+pagination:
   enabled: true
 tags:
   - Arduino

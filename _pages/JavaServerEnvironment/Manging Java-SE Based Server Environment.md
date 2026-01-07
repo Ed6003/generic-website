@@ -8,7 +8,7 @@ entries_layout: grid
 header:
   overlay_image: /_pages/JavaServerEnvironment/Java-Server-Environment-Splash.jpg
   image_description: "Render of Conrod Sketch and Modelled Piston"
-pagination: 
+pagination:
   enabled: true
 tags:
   - Java

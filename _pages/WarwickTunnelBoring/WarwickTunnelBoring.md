@@ -8,7 +8,7 @@ entries_layout: grid
 header:
   overlay_image: /_pages/WarwickTunnelBoring/Warwick-Boring-Splash.jpg
   image_description: "Tunnel Interior Splash Screen"
-pagination: 
+pagination:
   enabled: true
 tags:
   - "Autodesk Fusion 360"

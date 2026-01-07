@@ -8,7 +8,7 @@ entries_layout: grid
 header:
   overlay_image: /_pages/VirtualRobotArm/Virtual-Robot-Arm-Splash.png
   image_description: "Orange Robotic Arm Splash Screen"
-pagination: 
+pagination:
   enabled: true
 tags:
   - MATLAB
