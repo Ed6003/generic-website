@@ -12,12 +12,8 @@ pagination:
   enabled: true
 tags:
   - Engineering Design
-  - Report Writing
-  - Dissertation
-  - Coding
-  - Finite Element Analysis (FEA)
-  - Abaqus
-  - nTop
+  - CAD / CAM
+  - Autodesk Fusion 360
 author_profile: true
 toc: true
 toc_sticky: true
