@@ -27,3 +27,6 @@ Java
 Server Management
 API Integration
 Database Management
+Report Writing
+Dissertation
+nTop

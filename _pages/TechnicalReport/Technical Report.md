@@ -1,7 +1,7 @@
 ---
-title: CAD Design Showcase
+title: Technical Report, 3rd Year Dissertation
 layout: single
-permalink: /portfolio/cad-design-showcase
+permalink: /portfolio/technical-report-3rd-year-dissertation
 collection: portfolio
 entries_layout: grid
 #classes: wide # Remove if adding sticky TOC
@@ -11,13 +11,10 @@ header:
 pagination: 
   enabled: true
 tags:
+  - Electric Vehicles
+  - Sustainability
+  - Photogrammetry
   - Engineering Design
-  - Report Writing
-  - Dissertation
-  - Coding
-  - Finite Element Analysis (FEA)
-  - Abaqus
-  - nTop
 author_profile: true
 toc: true
 toc_sticky: true
@@ -27,7 +24,7 @@ toc_icon: "cog"
 
 # CAD Design Showcase
 
-Designed technical drawings with machining annotations for manufacturer including tolerances. Animated a single cylinder motorbike engine, modelled the engine’s piston head and racing simulation rig with 3D renders. 
+Placeholder, this page is under construction
 
 <script src="{{ site.baseurl }}/assets/js/custom/carousel.js" defer></script>
 
