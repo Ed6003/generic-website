@@ -19,7 +19,7 @@ locale                   : "en-GB"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Edoardo Rusconi"
 title_separator          : "-"
-subtitle                 : "Engineering" # site tagline that appears below site title in masthead
+subtitle                 : "Mechanical Engineering" # site tagline that appears below site title in masthead
 name                     : "Edoardo Rusconi"
 description              : "An Engineering portfolio of my projects throughout the years"
 url                      : "edoardo.rusconi.work" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
