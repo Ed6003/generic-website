@@ -30,3 +30,7 @@ Database Management
 Report Writing
 Dissertation
 nTop
+Granta MI
+Materials Science
+Data Science
+Data Analytics

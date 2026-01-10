@@ -9,8 +9,16 @@ header:
   #   - label: "Download"
   #     url: "https://github.com/mmistakes/minimal-mistakes/"
 #excerpt: "Welcome to my !Portfolio"
-intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+# intro: 
+#   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+feature_row0:
+  - image_path:
+    alt:
+    title: "Ansys part of Synopsys"
+    excerpt: '**1  Year** on Data Products team in the Materials Business Unit, previously "Granta Design" acquired by Ansys in 2019'
+    url: "/portfolio/ansys-part-of-synopsys-placement"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row1:
   - image_path: _pages/!Portfolio/WarwickBoringLogo.png
     alt: "Warwick Tunnel Boring Logo"
@@ -31,8 +39,7 @@ feature_row2:
   - image_path: _pages/!Portfolio/TrainControl.png
     alt: "Train control circuit schematic top down view"
     title: "Train Control"
-    excerpt: 'Developed custom train control using **RF-transmitted PWM values** for variable speed. Integrated color and
-distance sensors’ boolean logic into motor functions, employing **H-bridge connections** for motor control'
+    excerpt: 'Developed custom train control using **RF-transmitted PWM values** for variable speed. Integrated color and distance sensors’ boolean logic into motor functions, employing **H-bridge connections** for motor control'
     url: "/portfolio/train-control" # TO EDIT
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -61,8 +68,7 @@ feature_row3:
   - image_path: _pages/!Portfolio/RocketSimulationScript.png
     alt: "PLACEHOLDER"
     title: "Matlab Rocket Simulation Script"
-    excerpt: 'Created a water rocket simulation script in MATLAB using **iterative equations,** automatically scaling arrays.
-Models the entire rocket path, subdivided into: **thrust phase, deceleration phase** then **parachute phase.**'
+    excerpt: 'Created a water rocket simulation script in MATLAB using **iterative equations,** automatically scaling arrays. Models the entire rocket path, subdivided into: **thrust phase, deceleration phase** then **parachute phase.**'
     url: "/portfolio/matlab-rocket-simulation-script" # TO EDIT
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -127,6 +133,12 @@ feature_row5:
 <!-- The types are type = center, left, right and there's another one where there's none -->
 
 <!-- {% include feature_row id="intro" type="center" %} -->
+
+<div style="text-align: center;">
+  <h1>12 Month Work Placement</h1>
+</div>
+
+{% include feature_row id="feature_row0" type="center" %}
 
 <div style="text-align: center;">
   <h1>Student Projects</h1>
