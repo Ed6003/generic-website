@@ -29,10 +29,14 @@ Ongoing 1 year placement on the Data Products team in the Materials Business Uni
 
 &nbsp;
 # Key Contributions
-<!-- - Improved processes by creating a **FE request form** giving task handover clarity.
-- Creation of **DOP documents** with a focus on future proofing and knowledge transfer.
-- Recorded lecture content and created **report templates** for team members.
-- Training and delegating tasks to **4 other team members**. -->
+- Added **5000+** records to the Medical Database with FDA device–material links, improving traceability.
+- Built polymer–grade data pipelines linking **ISO 1043** codes with SQL using hardness and ML validation.
+	
+- Consolidated PA9T and Alloy 42 grades into **9** generic records with **150+ material properties** each.
+	
+- Selected and applied from 400+ proprietary formulas for class-dependent **material property estimation.**
+	
+- Automated extraction of REACH/ECHA materials data via Selenium for regulatory compliance updates.
 
 # Skills Developed
 
