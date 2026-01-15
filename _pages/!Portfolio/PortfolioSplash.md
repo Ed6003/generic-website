@@ -11,7 +11,7 @@ header:
 #excerpt: "Welcome to my !Portfolio"
 # intro: 
 #   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
-feature_row0:
+feature_row1:
   - image_path:
     alt:
     title: "Ansys part of Synopsys"
@@ -19,7 +19,15 @@ feature_row0:
     url: "/portfolio/ansys-part-of-synopsys-placement"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row1:
+feature_row2:
+  - image_path:
+    alt:
+    title: "DAF Trucks UK"
+    excerpt: '**Summer Internship** at Leyland Trucks, part of DAF UK and subsidiary of Paccar.'
+    url: "/portfolio/DAF-summer-internship"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row3:
   - image_path: _pages/!Portfolio/WarwickBoringLogo.png
     alt: "Warwick Tunnel Boring Logo"
     title: "Warwick Tunnel Boring"
@@ -35,7 +43,7 @@ feature_row1:
     url: "/portfolio/warwick-racing"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row2:
+feature_row4:
   - image_path: _pages/!Portfolio/TrainControl.png
     alt: "Train control circuit schematic top down view"
     title: "Train Control"
@@ -57,7 +65,7 @@ feature_row2:
     url: "/portfolio/EV-Ita-electric-boat" # TO EDIT
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:
+feature_row5:
   - image_path: _pages/!Portfolio/Robot-Arm Inverse Kinematics.png
     alt: "PLACEHOLDER"
     title: "Virtual Robot Arm - Inverse Kinematics"
@@ -96,7 +104,7 @@ single cylinder motorbike engine, **modelled** the engine’s piston head and a 
     url: "/portfolio/managing-java-se-based-server-environment" # TO EDIT
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row4:
+feature_row6:
   - image_path: _pages/!Portfolio/Photogrammetry.png
     alt: "PLACEHOLDER"
     title: "Photogrammetry"
@@ -118,7 +126,7 @@ feature_row4:
     url: "/portfolio/game-assets" # TO EDIT
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row5:
+feature_row7:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Center Aligned"
@@ -138,28 +146,34 @@ feature_row5:
   <h1>12 Month Work Placement</h1>
 </div>
 
-{% include feature_row id="feature_row0" type="center" %}
+{% include feature_row id="feature_row1" type="center" %}
+
+<div style="text-align: center;">
+  <h1>Internships</h1>
+</div>
+
+{% include feature_row id="feature_row2" type="center" %}
 
 <div style="text-align: center;">
   <h1>Student Projects</h1>
 </div>
 
-{% include feature_row id="feature_row1" type="center" %}
+{% include feature_row id="feature_row3" type="center" %}
 
 <div style="text-align: center;">
   <h1>Team Projects</h1>
 </div>
 
-{% include feature_row id="feature_row2" %}
+{% include feature_row id="feature_row4" %}
 
 <div style="text-align: center;">
   <h1>Personal Projects</h1>
 </div>
 
-{% include feature_row id="feature_row3" %}
+{% include feature_row id="feature_row5" %}
 
 <div style="text-align: center;">
   <h1>3D Modelling</h1>
 </div>
 
-{% include feature_row id="feature_row4" %}
+{% include feature_row id="feature_row6" %}

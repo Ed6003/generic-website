@@ -26,30 +26,12 @@ I have been for **2.5+  Years** in the CAD and Simulations team at Warwick Tunne
 
 Check out my [mmTBM]({{ site.baseurl }}/portfolio/mmTBM) project also, a WIP personal tunnel boring project for a small scale functional TBM.
 
-Here is a cool build animation of our current machine I made:
+Here is a cool build animation of our current machine that I made:
 <div class="video-container" style="display: block;">
   <video width="100%" height="auto" loop autoplay muted>
     <source src="{{ site.baseurl }}/_pages/WarwickTunnelBoring/TBM_Transparent.webm" type="video/webm">
   </video>
 </div>
-
-## Team Website
-
-<style>
-  @media (max-width: 768px) {
-    .video-container {
-      display: none !important;
-    }
-  }
-</style>
-
-<iframe src="https://www.warwickboringteam.com/" 
-        title="Warwick Boring Team" 
-        style="border:none; width:100%; height:90vh;"
-        allowfullscreen>
-</iframe>
-
-&nbsp;
 
 ## Me at the 2024 Competition
 <img src="{{ site.baseurl }}/_pages/WarwickTunnelBoring/MeAtThe2024Comp.jpeg" alt="Me at the 2024 Competition" style="width: 100%; height: auto;">
