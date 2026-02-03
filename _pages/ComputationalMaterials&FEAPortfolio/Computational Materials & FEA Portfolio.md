@@ -6,11 +6,11 @@ collection: portfolio
 entries_layout: grid
 #classes: wide # Remove if adding sticky TOC
 header:
-  overlay_image: /_pages/CadDesignShowcase/CAD-Design-Showcase-Splash.png
-  image_description: "Render of Conrod Sketch and Modelled Piston"
+  overlay_image: /_pages/ComputationalMaterials&FEAPortfolio/Computational-Materials-FEA-Portfolio-Splash.png
+  image_description: "FEA simulation visualization"
 pagination:
   enabled: true
-tags:
+tags: # Tags must be an exact match to what is in "tag list.txt", new tags need to be added there as well the first time.
   - Finite Element Analysis (FEA)
   - Abaqus
   - nTop
@@ -22,64 +22,20 @@ toc_label: "Contents"
 toc_icon: "cog"
 ---
 
-# CAD Design Showcase
+# Computational Materials & FEA Portfolio
 
-Placeholder, this page is under construction
+Applied energy-based damage and Hashin failure criteria in explicit FEA simulations to model fibre-reinforced composite fracture and damage evolution in static loading and machining.
 
-<script src="{{ site.baseurl }}/assets/js/custom/carousel.js" defer></script>
+## Explicit Gear Simulation
 
-<!-- Slideshow container -->
-<div class="slideshow-container">
+This simulation demonstrates a driver gear driving an entire geartrain using explicit FEA analysis. The dynamic contact interactions and stress distribution are modeled to understand the mechanical behavior of the gear assembly under operational conditions.
 
-  <!-- Full-width images with number and caption text -->
-  <div class="mySlides fade">
-    <div class="numbertext">1 / 3</div>
-    <img src="{{ site.baseurl }}/_pages/CadDesignShowcase/1.png" style="width:100%">
-    <!-- <div class="text">Caption Text</div> -->
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">2 / 3</div>
-    <img src="{{ site.baseurl }}/_pages/CadDesignShowcase/2.png" style="width:100%">
-    <!-- <div class="text">Caption Two</div> -->
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">3 / 3</div>
-    <img src="{{ site.baseurl }}/_pages/CadDesignShowcase/3.png" style="width:100%">
-    <!-- <div class="text">Caption Three</div> -->
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">3 / 3</div>
-    <img src="{{ site.baseurl }}/_pages/CadDesignShowcase/4.png" style="width:100%">
-    <!-- <div class="text">Caption Three</div> -->
-  </div>
-
-  <!-- Next and previous buttons -->
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
-</div>
-
-<!-- The dots/circles -->
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span>
-  <span class="dot" onclick="currentSlide(2)"></span>
-  <span class="dot" onclick="currentSlide(3)"></span>
-  <span class="dot" onclick="currentSlide(4)"></span>
-</div>
-<br>
-
-<div class="sketchfab-embed-wrapper" style="width: 100%; height: 60vh; margin: 0; padding: 0; display: flex; justify-content: center; align-items: center;">
-    <iframe title="Racing Sim Rig" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/d44292f9ca3a46bcac39cbf16d1dd3b2/embed" style="width: 100%; height: 100%; border: none;"></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YU0Va2vOH3I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 100%; height: 56.25%; min-height: 315px; border: none;"></iframe>
 
 &nbsp;
 
-<div class="sketchfab-embed-wrapper" style="width: 100%; height: 60vh; margin: 0; padding: 0; display: flex; justify-content: center; align-items: center;">
-    <iframe title="Engine Animation" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/0ca91934c9b442c98c4acd48b8747eab/embed" style="width: 100%; height: 100%; border: none;"></iframe>
-</div>
+## Carbon Rod Machining Simulation
 
-&nbsp;
+This explicit simulation demonstrates the cutting of a carbon fiber-reinforced composite rod using energy-based material deletion on the mesh. The simulation incorporates Hashin failure criteria to accurately predict damage initiation and progression, as well as element deletion to model the material removal process during machining.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-iOqLXz0_UM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 100%; height: 100%; border: none;"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/03zrX6TpdE4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 100%; height: 56.25%; min-height: 315px; border: none;"></iframe>

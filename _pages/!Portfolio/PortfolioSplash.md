@@ -66,6 +66,20 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row5:
+  - image_path: _pages/!Portfolio/ComputationalMaterialsFEAPortfolio.png
+    alt: "Computational Materials & FEA Portfolio"
+    title: "Computational Materials & FEA Portfolio"
+    excerpt: 'Applied **energy-based damage** and **Hashin failure criteria** in **explicit FEA simulations** to model fibre-reinforced composite fracture and damage evolution in static loading and machining.'
+    url: "/portfolio/computational-materials-and-FEA-portfolio"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: _pages/!Portfolio/CADDesignShowcase.png
+    alt: "PLACEHOLDER"
+    title: "CAD Design Showcase"
+    excerpt: 'Designed **technical drawings** with machining annotations for manufacturer including **tolerances.** Animated a single cylinder motorbike engine, **modelled** the engine’s piston head and a racing simulator rig, made **3D renders.**'
+    url: "/portfolio/cad-design-showcase" # TO EDIT
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: _pages/!Portfolio/Robot-Arm Inverse Kinematics.png
     alt: "PLACEHOLDER"
     title: "Virtual Robot Arm - Inverse Kinematics"
@@ -83,18 +97,8 @@ feature_row5:
   - image_path: _pages/!Portfolio/SprintPoweredCarModelling.png
     alt: "PLACEHOLDER"
     title: "Physical System Modelling Spring Powered Car"
-    excerpt: 'Integrated **Simulink** and **Simscape** node based coding to **simulate all car subsystems:** drivetrain, axles,
-wheels and gearbox. Accounting for tire friction and air resistance, linear inertia and wheel polar inertia.'
+    excerpt: 'Integrated **Simulink** and **Simscape** node based coding to **simulate all car subsystems:** drivetrain, axles, wheels and gearbox. Accounting for tire friction and air resistance, linear inertia and wheel polar inertia.'
     url: "/portfolio/spring-powered-car-physical-system-modelling" # TO EDIT
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: _pages/!Portfolio/CADDesignShowcase.png
-    alt: "PLACEHOLDER"
-    title: "CAD Design Showcase"
-    excerpt: 'Designed **technical drawings** with machining annotations for manufacturer including **tolerances.** Animated a
-single cylinder motorbike engine, **modelled** the engine’s piston head and a racing simulator rig, made **3D renders.**
-'
-    url: "/portfolio/cad-design-showcase" # TO EDIT
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: _pages/!Portfolio/JavaSEServerEnvironment.jpg
