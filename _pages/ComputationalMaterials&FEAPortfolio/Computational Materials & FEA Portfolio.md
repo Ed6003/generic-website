@@ -26,16 +26,16 @@ toc_icon: "cog"
 
 Applied energy-based damage and Hashin failure criteria in explicit FEA simulations to model fibre-reinforced composite fracture and damage evolution in static loading and machining.
 
-## Explicit Gear Simulation
-
-This simulation demonstrates a driver gear driving an entire geartrain using explicit FEA analysis. The dynamic contact interactions and stress distribution are modeled to understand the mechanical behavior of the gear assembly under operational conditions.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YU0Va2vOH3I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 100%; height: 56.25%; min-height: 315px; border: none;"></iframe>
-
-&nbsp;
-
 ## Carbon Rod Machining Simulation
 
 This explicit simulation demonstrates the cutting of a carbon fiber-reinforced composite rod using energy-based material deletion on the mesh. The simulation incorporates Hashin failure criteria to accurately predict damage initiation and progression, as well as element deletion to model the material removal process during machining.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/03zrX6TpdE4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 100%; height: 56.25%; min-height: 315px; border: none;"></iframe>
+
+&nbsp;
+
+## Explicit Gear Simulation
+
+This simulation demonstrates a driver gear driving an entire geartrain using explicit FEA analysis. The dynamic contact interactions and stress distribution are modeled to understand the mechanical behavior of the gear assembly under operational conditions.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YU0Va2vOH3I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 100%; height: 56.25%; min-height: 315px; border: none;"></iframe>
