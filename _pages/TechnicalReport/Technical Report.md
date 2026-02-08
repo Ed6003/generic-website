@@ -43,15 +43,15 @@ toc: false
 
 ## View & Download
 
-### 📖 View PDF
+### View PDF
 
-<div style="border: 1px solid #ddd; border-radius: 5px; overflow: hidden; background: #f5f5f5; margin: 15px 0;">
-  <embed src="{{ site.baseurl }}/_pages/TechnicalReport/2262212_ES327_TR.pdf" type="application/pdf" width="100%" height="700px" />
+<div style="border: 1px solid #ddd; border-radius: 5px; overflow: hidden; background: #f5f5f5; margin: 15px 0; max-width: 100%; height: 1100px;">
+  <iframe src="{{ site.baseurl }}/_pages/TechnicalReport/2262212_ES327_TR.pdf#page=1&view=FitH" style="width: 100%; height: 100%; border: none;" loading="lazy"></iframe>
 </div>
 
-### 📥 Download
+### Download
 
-<a href="{{ site.baseurl }}/_pages/TechnicalReport/2262212_ES327_TR.pdf" download="ES327_Dissertation_Rusconi.pdf" style="display: inline-block; padding: 10px 20px; background-color: #0066cc; color: white; text-decoration: none; border-radius: 3px; font-weight: bold;">Download PDF</a>
+<a href="{{ site.baseurl }}/_pages/TechnicalReport/2262212_ES327_TR.pdf" download="ES327_Dissertation_Edoardo_R.pdf" style="display: inline-block; padding: 10px 20px; background-color: #0066cc; color: white; text-decoration: none; border-radius: 3px; font-weight: bold;">Download PDF</a>
 
 ---
 
@@ -66,7 +66,7 @@ toc: false
 - Designed and 3D-printed optimised gearbox components
 
 **Results:**
-- **25.2% weight reduction** vs baseline geometry
+- **25.2% weight reduction** compared to baseline geometry
 - Stiffness maintained through variable-density infill optimisation
 - Validated prototypes printed successfully with acceptable dimensional tolerances
 
@@ -79,15 +79,3 @@ toc: false
 - **CAD/Manufacturing:** 3D printing design, DfM principles, tolerancing
 - **Analysis:** Regression modelling, sensitivity studies, material homogenisation
 - **Technical Communication:** Comprehensive report writing with visualisations
-
----
-
-## Document Information
-
-| | |
-|---|---|
-| **Author** | Edoardo Rusconi |
-| **Degree** | BEng Mechanical Engineering |
-| **Institution** | University of Warwick |
-| **Course** | ES327 |
-| **Date** | March 2025 |
