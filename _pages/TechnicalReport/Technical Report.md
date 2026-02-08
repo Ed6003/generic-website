@@ -1,88 +1,93 @@
 ---
-title: Technical Report - Undergraduate Dissertation
+title: Additive Manufacturing and Topology Optimisation in Gearbox Design
 layout: single
-permalink: /portfolio/technical-report-undergraduate-dissertation
+permalink: /portfolio/undergraduate-dissertation
 collection: portfolio
 entries_layout: grid
-#classes: wide # Remove if adding sticky TOC
 header:
-  overlay_image: /_pages/CadDesignShowcase/CAD-Design-Showcase-Splash.png
-  image_description: "Render of Conrod Sketch and Modelled Piston"
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /_pages/TechnicalReport/TechnicalReport-Splash.png
+  image_description: "Topology optimisation and additive manufacturing for gearbox design"
 pagination:
   enabled: true
 tags:
-  - Engineering Design
   - Report Writing
   - Dissertation
-  - Coding
+  - Engineering Design
+  - Numerical Methods
   - Finite Element Analysis (FEA)
+  - MATLAB
   - Abaqus
   - nTop
+  - Simulation
+  - Topology Optimisation
+  - Additive Manufacturing
+  - 3D Printing
+  - Lattice Structures
+  - Gearbox Design
+  - Knee Powered Orthosis
 author_profile: true
-toc: true
-toc_sticky: true
-toc_label: "Contents"
-toc_icon: "cog"
+toc: false
 ---
 
-# CAD Design Showcase
+# Additive Manufacturing and Topology Optimisation in Gearbox Design
 
-Placeholder, this page is under construction
+## Overview
 
-<script src="{{ site.baseurl }}/assets/js/custom/carousel.js" defer></script>
+**BEng Mechanical Engineering** final year dissertation optimising a **knee powered orthosis** gearbox using topology optimisation and additive manufacturing. The project demonstrates how intelligent infill strategies in 3D-printed components can reduce weight by **25.2%** while maintaining structural performance.
 
-<!-- Slideshow container -->
-<div class="slideshow-container">
+**Key Achievement:** Integrated MATLAB + Abaqus FEM workflow to characterise gyroid lattice properties and deliver a lightweight, manufacturable design.
 
-  <!-- Full-width images with number and caption text -->
-  <div class="mySlides fade">
-    <div class="numbertext">1 / 3</div>
-    <img src="{{ site.baseurl }}/_pages/CadDesignShowcase/1.png" style="width:100%">
-    <!-- <div class="text">Caption Text</div> -->
-  </div>
+---
 
-  <div class="mySlides fade">
-    <div class="numbertext">2 / 3</div>
-    <img src="{{ site.baseurl }}/_pages/CadDesignShowcase/2.png" style="width:100%">
-    <!-- <div class="text">Caption Two</div> -->
-  </div>
+## View & Download
 
-  <div class="mySlides fade">
-    <div class="numbertext">3 / 3</div>
-    <img src="{{ site.baseurl }}/_pages/CadDesignShowcase/3.png" style="width:100%">
-    <!-- <div class="text">Caption Three</div> -->
-  </div>
+### 📖 View PDF
 
-  <div class="mySlides fade">
-    <div class="numbertext">3 / 3</div>
-    <img src="{{ site.baseurl }}/_pages/CadDesignShowcase/4.png" style="width:100%">
-    <!-- <div class="text">Caption Three</div> -->
-  </div>
-
-  <!-- Next and previous buttons -->
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+<div style="border: 1px solid #ddd; border-radius: 5px; overflow: hidden; background: #f5f5f5; margin: 15px 0;">
+  <embed src="{{ site.baseurl }}/_pages/TechnicalReport/2262212_ES327_TR.pdf" type="application/pdf" width="100%" height="700px" />
 </div>
 
-<!-- The dots/circles -->
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span>
-  <span class="dot" onclick="currentSlide(2)"></span>
-  <span class="dot" onclick="currentSlide(3)"></span>
-  <span class="dot" onclick="currentSlide(4)"></span>
-</div>
-<br>
+### 📥 Download
 
-<div class="sketchfab-embed-wrapper" style="width: 100%; height: 60vh; margin: 0; padding: 0; display: flex; justify-content: center; align-items: center;">
-    <iframe title="Racing Sim Rig" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/d44292f9ca3a46bcac39cbf16d1dd3b2/embed" style="width: 100%; height: 100%; border: none;"></iframe>
-</div>
+<a href="{{ site.baseurl }}/_pages/TechnicalReport/2262212_ES327_TR.pdf" download="ES327_Dissertation_Rusconi.pdf" style="display: inline-block; padding: 10px 20px; background-color: #0066cc; color: white; text-decoration: none; border-radius: 3px; font-weight: bold;">Download PDF</a>
 
-&nbsp;
+---
 
-<div class="sketchfab-embed-wrapper" style="width: 100%; height: 60vh; margin: 0; padding: 0; display: flex; justify-content: center; align-items: center;">
-    <iframe title="Engine Animation" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/0ca91934c9b442c98c4acd48b8747eab/embed" style="width: 100%; height: 100%; border: none;"></iframe>
-</div>
+## Research Summary
 
-&nbsp;
+**Objective:** Reduce weight and improve stiffness in knee powered orthosis gearboxes through topology optimisation and variable-density infill strategies.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-iOqLXz0_UM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 100%; height: 100%; border: none;"></iframe>
+**Methodology:**
+- Automated MATLAB + Abaqus workflow for generating and simulating lattice structures
+- Characterised gyroid triply periodic minimal surfaces (TPMS) across multiple infill densities
+- Compared iterative FEM approach with nTopology homogenisation for validation
+- Designed and 3D-printed optimised gearbox components
+
+**Results:**
+- **25.2% weight reduction** vs baseline geometry
+- Stiffness maintained through variable-density infill optimisation
+- Validated prototypes printed successfully with acceptable dimensional tolerances
+
+---
+
+## Key Skills Demonstrated
+
+- **FEA & Optimisation:** Abaqus FEM, topology optimisation, lattice characterisation
+- **Automation:** MATLAB procedural geometry generation, batch FEM processing
+- **CAD/Manufacturing:** 3D printing design, DfM principles, tolerancing
+- **Analysis:** Regression modelling, sensitivity studies, material homogenisation
+- **Technical Communication:** Comprehensive report writing with visualisations
+
+---
+
+## Document Information
+
+| | |
+|---|---|
+| **Author** | Edoardo Rusconi |
+| **Degree** | BEng Mechanical Engineering |
+| **Institution** | University of Warwick |
+| **Course** | ES327 |
+| **Date** | March 2025 |

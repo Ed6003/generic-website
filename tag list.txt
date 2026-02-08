@@ -34,3 +34,10 @@ Granta MI
 Materials Science
 Data Science
 Data Analytics
+Topology Optimisation
+Additive Manufacturing
+3D Printing
+Orthopedic Engineering
+Lattice Structures
+Gearbox Design
+Knee Powered Orthosis
