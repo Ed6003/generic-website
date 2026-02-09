@@ -80,6 +80,13 @@ feature_row5:
     url: "/portfolio/cad-design-showcase" # TO EDIT
     btn_label: "Read More"
     btn_class: "btn--primary"
+  - image_path: _pages/TechnicalReport/TechnicalReport.png
+    alt: "Undergraduate dissertation on additive manufacturing and topology optimisation"
+    title: "Undergraduate Dissertation"
+    excerpt: '3rd year dissertation: **25.2% weight reduction** in an orthosis gearbox via **topology optimisation,** gyroid TPMS characterisation, and MATLAB + Abaqus automation.'
+    url: "/portfolio/undergraduate-dissertation"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: "_pages/!Portfolio/images/Robot-Arm Inverse Kinematics.png"
     alt: "PLACEHOLDER"
     title: "Virtual Robot Arm - Inverse Kinematics"
