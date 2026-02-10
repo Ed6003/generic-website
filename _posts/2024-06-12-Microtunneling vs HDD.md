@@ -1,7 +1,7 @@
 ---
 title: "Microtunneling vs HDD"
 date: 2024-06-12
-layout: single
+layout: single-custom
 entries_layout: grid
 #classes: wide # Remove if adding sticky TOC
 #header:
@@ -14,6 +14,9 @@ tags:
   - "Microtunneling"
   - "TBM"
 author_profile: true
+header:
+  particles: true
+  overlay_color: "#000"
 toc: true
 toc_sticky: true
 toc_label: "Contents"
