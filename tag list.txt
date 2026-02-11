@@ -41,3 +41,9 @@ Orthopedic Engineering
 Lattice Structures
 Gearbox Design
 Knee Powered Orthosis
+Biomaterials
+Tissue Engineering
+Polymer Scaffolds
+SQL
+Python
+C#
