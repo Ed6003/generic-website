@@ -1,7 +1,7 @@
 
 @echo off
 setlocal
-set "SITE=C:\Users\rusco\OneDrive - University of Warwick\Admin\Archives\Documents\GitHub\minimal-mistakes"
+set "SITE=C:\Github\minimal-mistakes"
 
 if not exist "%SITE%" (
   echo Site path not found: %SITE%
