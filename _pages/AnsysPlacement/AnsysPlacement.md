@@ -1,5 +1,5 @@
 ---
-title: Ansys, part of Synopsys
+title: Ansys, part of Synopsys Placement
 layout: single
 permalink: /portfolio/ansys-part-of-synopsys-placement
 collection: portfolio
@@ -11,12 +11,15 @@ header:
 pagination:
   enabled: true
 tags:
-  - Automotive
-  - Abaqus
-  - Fusion 360
-  - GRM Genesis
-  - CAD / CAM
+  - Materials Science
   - Finite Element Analysis (FEA)
+  - Granta MI
+  - Data Science
+  - Data Analytics
+  - SQL
+  - Python
+  - C#
+
 author_profile: true
 toc: true
 toc_sticky: true
