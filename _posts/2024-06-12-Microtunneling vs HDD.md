@@ -26,9 +26,10 @@ read_time: true
 share: true
 related: true
 ---
+<script src="{{ site.baseurl }}/assets/js/custom/app.js" defer></script>
+<script src="{{ site.baseurl }}/assets/js/custom/auto-resize.js" defer></script>
 
 # HDD and Microtunneling: Trenchless Installation Techniques
-
 Horizontal Directional Drilling (HDD) and microtunneling are two common trenchless methods of installing underground utilities with minimal surface excavation. Each of these techniques has very specific applications, advantages, and limitations; hence, the selection between the two becomes critical for the success of a project.
 
 If you would like to know more about HDD or microtunelling check the [further reading](#further-reading)
@@ -77,4 +78,4 @@ In short, both HDD and microtunneling are very good trenchless technologies, eac
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qv3OhXomz9M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 100%; height: 100%; border: none;"></iframe>
 
 ### Further Reading
-<a class="btn btn--primary" href="https://app.knovel.com/kn/resources/kpMHDR0002/toc" target="_blank" rel="noopener noreferrer">Microtunneling and Horizontal Drilling Book</a>
+<a class="btn btn--primary" href="https://app.knovel.com/kn/resources/kpMHDR0002/toc" target="_blank" rel="noopener noreferrer">Book: Microtunneling and Horizontal Drilling</a>

@@ -1,5 +1,5 @@
 ---
-title: An Adaptive Particle Header
+title: "An Adaptive Particle Header"
 date: 2024-12-07
 layout: single-custom
 entries_layout: grid
