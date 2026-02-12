@@ -3,14 +3,9 @@ title: "An Adaptive Particle Header"
 date: 2024-12-07
 layout: single-custom
 entries_layout: grid
-#classes: wide
-#header:
-#  overlay_image: /assets/Portfolio/WarwickTunnelBoring/Warwick-Boring-Splash.jpg
-#  image_description: "Tunnel Interior Splash Screen"
 pagination:
   enabled: true
 tags:
-  - "Jekyll"
   - "JavaScript"
   - "Coding"
   - "Web Design"
@@ -29,9 +24,6 @@ related: true
 ---
 
 # Creating Dynamic Particle Effects with JavaScript
-
-<script src="{{ site.baseurl }}/assets/js/custom/app.js" defer></script>
-<script src="{{ site.baseurl }}/assets/js/custom/auto-resize.js" defer></script>
 
 In this article, we will explore how to create dynamic particle effects using the `particles.js` library combined with JavaScript. We will discuss how to calculate screen dimensions, implement responsive design, and ensure smooth interactions using debouncing techniques.
 
