@@ -35,4 +35,4 @@ related: true
 A testament to my hard work and a huge thank you to my supervisor Ken Mao for supporting me throughout the year.
 
 ### Further Reading
-<a class="btn btn--primary" href="{{ "/portfolio/undergraduate-dissertation" | relative_url }}" target="_blank" rel="noopener noreferrer">Undergraduate Dissertation</a>
+<a class="btn btn--primary" href="/portfolio/undergraduate-dissertation" target="_blank" rel="noopener noreferrer">Undergraduate Dissertation</a>

@@ -43,7 +43,7 @@ Synthetic polymers provide precise control over molecular weight, degradation ki
 
 Degradation rate and required properties in PLGA can be adjusted with the ratio of L-lactide and G-lactide. Glyconic acid accelerating degradation in short-term scaffold whilst lactic acid extends for long-term support. In this case there is an additional factor to consider which is acidic degradation which can cause inflammation locally if proper scaffold design doesn't allow the body to remove it.n.
 
-Working on the medical material database at [Ansys]({{ "/portfolio/ansys-part-of-synopsys-placement" | relative_url }}), since the beginning of this month now part of Synopsys I curated several biomaterials for the addition of new medical devices. In doing so I have identified over 100 medical devices utilising polymer scaffolds made of Poly(D,L-lactide) (PDLLA) offering an amorphous, rapid-degrading flexible structures.
+Working on the medical material database at [Ansys](/portfolio/ansys-part-of-synopsys-placement), since the beginning of this month now part of Synopsys I curated several biomaterials for the addition of new medical devices. In doing so I have identified over 100 medical devices utilising polymer scaffolds made of Poly(D,L-lactide) (PDLLA) offering an amorphous, rapid-degrading flexible structures.
 
 Whilst PLLA is an industry standard with highly documented use and a semi-crystalline rigid structure, PDLLA has only recently started seeing significant medical use. On this project I identified the widespread use of PDLLA and added it to the medical materials database.
 
