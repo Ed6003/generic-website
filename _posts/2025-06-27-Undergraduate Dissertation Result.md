@@ -1,8 +1,9 @@
 ---
-title: "Undergraduate Dissertation Result"
+title: "Undergraduate Dissertation: Additive Manufacturing and Topology Optimisation in Gearbox Design"
 date: 2025-06-27
 layout: single-custom
 entries_layout: grid
+classes: wide
 pagination:
   enabled: true
 tags:
@@ -17,11 +18,11 @@ author_profile: true
 header:
   particles: true
   overlay_color: "#000"
-toc: true
-toc_sticky: true
-toc_label: "Contents"
-toc_icon: "cog"
-tagline: ""
+# toc: true
+# toc_sticky: true
+# toc_label: "Contents"
+# toc_icon: "cog"
+# tagline: ""
 read_time: true
 share: true
 related: true
