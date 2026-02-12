@@ -28,6 +28,9 @@ related: true
 
 Polymer scaffolds are three dimensional templates that mimic the body's extracellular matrix (ECM) which is a natural network of proteins and sugars around the body that guides cell growth. Tissue regeneration is enhanced by providing structural support and biological signals to promote cell adhesion, proliferation and differentiation. Through a proccess known as remodeling the body asborbs and slowly replaces the ECM with new cells. As such an artificial polymer scaffold designed to function as an ECM needs to be biocompatible and biodegradeable, proteins and peptides are also slowly released with degradation. These biomaterials need to combine tunable mechanical properties with controlled degradation, maintaining mechanical strength in a structure designed to degrade being a primary challenge.
 
+![Polymer scaffold](/assets/images/PolymerScaffold.jpg)
+Image credit: [Modulating mechanical behaviour of 3D-printed cartilage-mimetic PCL scaffolds](https://doi.org/10.1088/1758-5090/8/2/025020)
+
 ### Design Principles for Polymer Scaffolds
 Effective scaffold design requires careful consideration of multiple properties that are interconnected. The scaffold must provide a porous architecture with pores ranging from 20-500 μm to enable cell infiltration, nutrient transport, waste removal and vascularisation. Porosity typically exceeds 90% for 3D poroius scaffolds to accommodate cell growth and tissue formation while maintaining mechanical integrity during the regeneration process.
 
